@@ -1,5 +1,5 @@
 # 👋 Ciao, sono Omar Grini!
-le mie skills
+# le mie skills
 Python | 🖥️ JavaScript | 🤖 Discord Bot Developer | 🚀 TypeScript
 
 ## 🚀 Su cosa sto lavorando:
